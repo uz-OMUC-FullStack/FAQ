@@ -56,7 +56,7 @@
         <li><a href ="https://learnpythonthehardway.org/python3/" >Learn Python 3 the Hard Way</a> ( HTML-versiya bepul )</li>
         <li><a href ="https://learncodethehardway.org/more-python-book/" >Learn More Python The Hard Way</a> ( HTML-versiya bepul )</li>
     </ul>
-    <p>Yana Telegram kanallar ham bor.</p>
+    <p><i>Full-stack</i> ga aloqador boshqa kitoblarni quyidagi telegram kanallardan topsangiz bo'ladi.</p>
     <ul>
         <li><a href = "https://t.me/python_textbooks">@python_textbooks</a></li>
         <li><a href = "https://t.me/progbook">@progbook</a></li>
