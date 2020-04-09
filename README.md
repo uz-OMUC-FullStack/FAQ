@@ -118,7 +118,6 @@
     <ul>
         <li><a href = "https://www.youtube.com/watch?v=JgIG6d3JsZs&list=PL0lO_mIqDDFUGX9k45bZFuz1ixTvUhd7b">Изучение JavaScript от нуля до гуру</a></li>
         <li><a href = "https://www.youtube.com/watch?v=PkZNo7MFNFg">Learn JavaScript - Full Course for Beginners(3:26:42)</a></li>
-
     </ul>
     <h4>Youtube: HTML+CSS</h4>
     <ul>
@@ -157,7 +156,7 @@
 </div>
 <hr>
 <div>
-    <h2>Chatga kod fragmentlarini yubirish!</h2>
+    <h2>Chatga kod fragmentlarini yuborish!</h2>
     <p>Kodni rasmini yoki skrinshot yuborish <b>yaxshi qabul qilinmaydi!</b></p>
     <p>Kod fragmentlari katta miqdorda bo'lmasa '`' (backtick, ruscha klaviaturada 'ё' harfi, 1 sonini chap tomonida) orqali yuborish kerak.</p>
     <p>Bir qator kod fragmenti uchun:<p>
