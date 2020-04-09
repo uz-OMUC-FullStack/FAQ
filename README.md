@@ -85,7 +85,7 @@
         <li><a href = "https://github.com/django-ru/faq">pydjango telegram chatinig FAQ</a></li>
         <li><a href = "https://learnxinyminutes.com/docs/ru-ru/python-ru/">Learn X in Y minutes, where X=python3</a></li>
     </ul>
-    <h4>Agar sizda boshqa qo'llanmalar yoki maqolalar bo'yicha takliflar bo'lsa <a href="https://t.me/illus11on">kanal moderatori</a> bilan aloqaga chiqing!</h4>
+    <h4>Agar sizda boshqa qo'llanmalar yoki maqolalar bo'yicha takliflar bo'lsa <a href="https://t.me/illus11on">guruh moderatori</a> bilan aloqaga chiqing!</h4>
 </div>
 <hr>
 <div>
@@ -175,5 +175,5 @@
         <li><a href = "https://t.me/SimplePasteBot">Hastebin Telegram Bot</a></li>
     </ul>
     <h2>Takliflar</h2>
-    <p>Boshqa resurs yoki takliflar bo'lsa, <a href="https://t.me/illus11on">kanal moderatori</a> bilan aloqaga chiqing.</p>
+    <p>Boshqa resurs yoki takliflar bo'lsa, <a href="https://t.me/illus11on">guruh moderatori</a> bilan aloqaga chiqing.</p>
 </div>
