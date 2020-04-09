@@ -47,14 +47,20 @@
 
 <div>
     <h2>Kitoblar (inglizcha / ruscha)</h2>
-    <p>Endi boshlayotganlar uchun pasda keltirilgan kitoblar to'g'ri keladi</p>
+    <p>Endi boshlayotganlar uchun pasda keltirilgan kitoblar to'g'ri keladi. (Faqat Python)</p>
     <ul>
-        <li><a href = "https://www.academia.edu/14882231/Learning_Python_5th_Edition_Mark_Lutz_www_ebook-dl_com_ ">M. Lutz «Lerning python»</a> / <a href = "https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/">М. Лутц. «Изучаем Python»</a></li>
+        <li><a href = "https://www.academia.edu/14882231/Learning_Python_5th_Edition_Mark_Lutz_www_ebook-dl_com_ ">M. Lutz «Learning Python»</a> / <a href = "https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/">М. Лутц. «Изучаем Python»</a></li>
         <li>M. Summerfield. «Programming in Python» / М. Саммерфилд. «Программирование на Python»</li>
         <li>E. Matthes.  «Learning Python» / Э. Мэтиз. Изучаем Python</li>
         <li><a href ="https://python.swaroopch.com/" >A byte of Python</a></li>
         <li><a href ="https://learnpythonthehardway.org/python3/" >Learn Python 3 the Hard Way</a> ( HTML-versiya bepul )</li>
         <li><a href ="https://learncodethehardway.org/more-python-book/" >Learn More Python The Hard Way</a> ( HTML-versiya bepul )</li>
     </ul>
+    <p>Yana Telegram kanallar ham bor</p>
+    <ul>
+        <li><a href = "https://t.me/python_textbooks">@python_textbooks</a></li>
+        <li><a href = "https://t.me/progbook">@progbook</a></li>
+        <li><a href = "https://t.me/python_books_archive">@python_books_archive</a></li>
+        <li><a href = "https://t.me/pythonlib">@pythonlib</a></li>
+    </ul>
 </div>
-
