@@ -1,2 +1,2 @@
-# FAQ
+# KO'P SO'RALADIGAN SAVOLLAR
 <hr>
