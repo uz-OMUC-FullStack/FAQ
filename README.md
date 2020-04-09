@@ -4,7 +4,7 @@
 <hr>
 </div>
 <div>
-    <h2>Full-stack bo'lish uchun nimadan boshlash kerak?</h2>
+    <h2><b><i>Full-stack<i></b>bo'lish uchun nimadan boshlash kerak?</h2>
     <ul>
         <li><a href = "https://docs.python.org/3/" >Python 3</a>
             <ul>
@@ -16,7 +16,5 @@
         <li><a href = "https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
         <li><a href = "https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
         <li><a href = ></a></li>
-
-
     </ul>
 </div>
