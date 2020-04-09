@@ -1,10 +1,11 @@
+<div>
 <h1><a href="https://t.me/FullStack_OMUC">@FullStack_OMUC</a> KO'P SO'RALADIGAN SAVOLLAR (FAQ)</h1>
 <hr>
 <p>Bu repositoriyda qiziqarli va kerakli bo'lgan ma'lumotlar to'plangan</p>
 <hr>
 </div>
 <div>
-    <h2><b><i>Full-stack<i></b>bo'lish uchun nimadan boshlash kerak?</h2>
+    <h2><b><i>Full-stack</i></b> bo'lish uchun nimadan boshlash kerak?</h2>
     <ul>
         <li><a href = "https://docs.python.org/3/" >Python 3</a>
             <ul>
