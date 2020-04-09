@@ -161,7 +161,7 @@
     <p>Kod fragmentlari katta miqdorda bo'lmasa '`' (backtick, ruscha klaviaturada 'ё' harfi, 1 sonini chap tomonida) orqali yuborish kerak.</p>
     <p>Bir qator kod fragmenti uchun:<p>
     <code><b>`source code example`</b></code>
-    <p>Ko'p qator (10 qatorgacha) kod fragmenti uchun:<p>
+    <p>Ko'p qatorli (10 qatorgacha) kod fragmenti uchun:<p>
     <code><b>```<br>
         source<br>
         &nbsp;&nbsp;code<br>
