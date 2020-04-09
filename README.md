@@ -1,7 +1,7 @@
 <div>
-<h1><a href="https://t.me/FullStack_OMUC">@FullStack_OMUC</a> KO'P SO'RALADIGAN SAVOLLAR (FAQ)</h1>
+<h1><a href="https://t.me/FullStack_OMUC">@FullStack_OMUC</a> FAQ (KO'P SO'RALADIGAN SAVOLLAR) </h1>
 <hr>
-<h4>Bu repositoriyda qiziqarli va kerakli bo'lgan ma'lumotlar to'plangan</h4>
+<h4>Bu repositoriyda qiziqarli va kerakli bo'lgan ma'lumotlar to'plangan.</h4>
 <hr>
 </div>
 <div>
