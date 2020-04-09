@@ -1,9 +1,10 @@
 <div>
-<h1><a href="https://t.me/FullStack_OMUC">@FullStack_OMUC</a> FAQ (KO'P SO'RALADIGAN SAVOLLAR) </h1>
+    <h1><a href="https://t.me/FullStack_OMUC">@FullStack_OMUC</a> FAQ (KO'P SO'RALADIGAN SAVOLLAR) </h1>
 <hr>
-<h4>Bu repositoriyda qiziqarli va kerakli bo'lgan ma'lumotlar to'plangan.</h4>
+    <h4>Bu repositoriyda qiziqarli va kerakli bo'lgan ma'lumotlar to'plangan.</h4>
 <hr>
 </div>
+<hr>
 <div>
     <h2><b><i>Full-stack</i></b> bo'lish uchun nimadan boshlash kerak?</h2>
     <h3>Yo'riqnomalarga havolalar keltirilgan</h3>
@@ -33,3 +34,15 @@
         </li>
     </ul>
 </div>
+<hr>
+<div>
+    <h2>Qaysi <b>IDE</b>(kod yozish muharriri) larda kod yozgan ma'qul?</h2>
+    <ul>
+        <li><a href="https://www.jetbrains.com/pycharm/">PyCharm</a><a href = "https://jetbrains.ru/students/classroom-licenses/free-classroom-licenses/">(Studentlar uchun bepul litsenziya)</a></li>
+        <li><a href="https://code.visualstudio.com/docs/languages/python">Visual Studio Code</a></li>
+        <li><a href="https://atom.io/">Atom</a></li>
+        <li><a href="https://www.sublimetext.com/3">Sublime Text</a></li>
+        <li><a href="https://www.eclipse.org/downloads/">Eclipse</a><a href="https://habr.com/ru/post/167559/">(Sozlash uchun maqola)</a></li>
+    </ul>
+</div>
+
