@@ -6,7 +6,7 @@
 </div>
 <div>
     <h2><b><i>Full-stack</i></b> bo'lish uchun nimadan boshlash kerak?</h2>
-    <h3>Dokumentatsiyalarga ssilkalar keltirilgan</h3>
+    <h3>Yo'riqnomalarga havolalar keltirilgan</h3>
     <ul>
         <li><a href = "https://docs.python.org/3/" >Python 3</a>
             <ul>
@@ -31,6 +31,5 @@
                 <li><a href = "https://www.sqlite.org/docs.html">SQLite</a></li>
             </ul>
         </li>
-
     </ul>
 </div>
