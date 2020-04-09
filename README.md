@@ -1,2 +1,2 @@
-<h2>@FullStack_OMUC KO'P SO'RALADIGAN SAVOLLAR (FAQ)<h2>
+<h2><a href="https://t.me/FullStack_OMUC">@FullStack_OMUC</a> KO'P SO'RALADIGAN SAVOLLAR (FAQ)<h2>
 <hr>
